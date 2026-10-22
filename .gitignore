@@ -1,0 +1,7 @@
+bin/
+.vs/
+obj/
+*.alibreaddon
+/packages
+/_ReSharper.Cashes/
+*.DotSettings.user
