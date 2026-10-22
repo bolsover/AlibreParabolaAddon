@@ -1,0 +1,10 @@
+<AlibreDesignAddOn specificationVersion="2" friendlyName="Parabola Addon">
+   <Author name="DavidBolsover" link=""/>
+   <Copyright>Copyright (c) 2026. DavidBolsover</Copyright>
+   <DLL type="Managed" loadedWhen="Startup" location="AlibreParabolaAddon.dll"/>
+   <Icon location="AlibreParabolaAddon.ico"/>
+   <Menu text="Parabola"/>
+   <Description>Parabola Addon</Description>
+   <Workspace type="Part"/>
+   <Property name="Identifier" value="{5335EC08-0BFC-43F2-92BB-2DDFBC45553D}"/>
+</AlibreDesignAddOn>

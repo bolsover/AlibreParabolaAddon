@@ -1,0 +1,17 @@
+D:\02_Repository\02_Bolsover\AlibreParabolaAddon\AlibreParabolaAddon\bin\Debug\AlibreParabolaAddon.adc
+D:\02_Repository\02_Bolsover\AlibreParabolaAddon\AlibreParabolaAddon\bin\Debug\AlibreParabolaAddon.ico
+D:\02_Repository\02_Bolsover\AlibreParabolaAddon\AlibreParabolaAddon\bin\Debug\addon.json
+D:\02_Repository\02_Bolsover\AlibreParabolaAddon\AlibreParabolaAddon\bin\Debug\AlibreParabolaAddon.dll
+D:\02_Repository\02_Bolsover\AlibreParabolaAddon\AlibreParabolaAddon\bin\Debug\AlibreParabolaAddon.pdb
+D:\02_Repository\02_Bolsover\AlibreParabolaAddon\AlibreParabolaAddon\obj\Debug\AlibreParabolaAddon.csproj.AssemblyReference.cache
+D:\02_Repository\02_Bolsover\AlibreParabolaAddon\AlibreParabolaAddon\obj\Debug\AlibreParabolaAddon.csproj.CoreCompileInputs.cache
+D:\02_Repository\02_Bolsover\AlibreParabolaAddon\AlibreParabolaAddon\obj\Debug\AlibreParabolaAddon.dll
+D:\02_Repository\02_Bolsover\AlibreParabolaAddon\AlibreParabolaAddon\obj\Debug\AlibreParabolaAddon.pdb
+C:\Users\DavidBolsover\AppData\Local\Temp\parabola_check\AlibreParabolaAddon.adc
+C:\Users\DavidBolsover\AppData\Local\Temp\parabola_check\AlibreParabolaAddon.ico
+C:\Users\DavidBolsover\AppData\Local\Temp\parabola_check\addon.json
+C:\Users\DavidBolsover\AppData\Local\Temp\parabola_check\AlibreParabolaAddon.dll
+C:\Users\DavidBolsover\AppData\Local\Temp\parabola_check\AlibreParabolaAddon.pdb
+D:\02_Repository\02_Bolsover\AlibreParabolaAddon\AlibreParabolaAddon\bin\Debug\AlibreAddOn.dll
+D:\02_Repository\02_Bolsover\AlibreParabolaAddon\AlibreParabolaAddon\bin\Debug\AlibreX.dll
+D:\02_Repository\02_Bolsover\AlibreParabolaAddon\AlibreParabolaAddon\obj\Debug\AlibrePa.357A32E7.Up2Date

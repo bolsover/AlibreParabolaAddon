@@ -1,0 +1,12 @@
+D:\02_Repository\02_Bolsover\AlibreParabolaAddon\AlibreParabolaAddon\bin\Release\AlibreParabolaAddon.adc
+D:\02_Repository\02_Bolsover\AlibreParabolaAddon\AlibreParabolaAddon\bin\Release\AlibreParabolaAddon.ico
+D:\02_Repository\02_Bolsover\AlibreParabolaAddon\AlibreParabolaAddon\bin\Release\addon.json
+D:\02_Repository\02_Bolsover\AlibreParabolaAddon\AlibreParabolaAddon\bin\Release\AlibreParabolaAddon.dll
+D:\02_Repository\02_Bolsover\AlibreParabolaAddon\AlibreParabolaAddon\bin\Release\AlibreParabolaAddon.pdb
+D:\02_Repository\02_Bolsover\AlibreParabolaAddon\AlibreParabolaAddon\obj\Release\AlibreParabolaAddon.csproj.AssemblyReference.cache
+D:\02_Repository\02_Bolsover\AlibreParabolaAddon\AlibreParabolaAddon\obj\Release\AlibreParabolaAddon.csproj.CoreCompileInputs.cache
+D:\02_Repository\02_Bolsover\AlibreParabolaAddon\AlibreParabolaAddon\obj\Release\AlibreParabolaAddon.dll
+D:\02_Repository\02_Bolsover\AlibreParabolaAddon\AlibreParabolaAddon\obj\Release\AlibreParabolaAddon.pdb
+D:\02_Repository\02_Bolsover\AlibreParabolaAddon\AlibreParabolaAddon\bin\Release\AlibreAddOn.dll
+D:\02_Repository\02_Bolsover\AlibreParabolaAddon\AlibreParabolaAddon\bin\Release\AlibreX.dll
+D:\02_Repository\02_Bolsover\AlibreParabolaAddon\AlibreParabolaAddon\obj\Release\AlibrePa.357A32E7.Up2Date

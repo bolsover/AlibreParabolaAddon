@@ -1,0 +1,12 @@
+{
+  "schemaVersion": 1,
+  "id": "{5335EC08-0BFC-43F2-92BB-2DDFBC45553D}",
+  "name": "Parabola Addon",
+  "folderName": "AlibreParabolaAddon",
+  "version": "1.0.0",
+  "dllType": "managed",
+  "arch": "x64",
+  "minAlibreBuild": 29000,
+  "publisher": "DavidBolsover",
+  "description": "Parabola Addon"
+}
