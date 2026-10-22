@@ -8,5 +8,5 @@
   "arch": "x64",
   "minAlibreBuild": 29000,
   "publisher": "DavidBolsover",
-  "description": "Parabola Addon"
+  "description": "Parabola Addon to generate parabolic curves in 2D and 3D sketches."
 }
